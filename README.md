@@ -37,7 +37,7 @@ It is designed for **wearable or home-based sleep monitoring**.
 
 ## 🔧 Model Architecture
 
-![Model Pipeline](pipeline2.jpg)
+![Model Pipeline](pipeline.jpg)
 
 - Input signals → patch embeddings
 - Transformer encoder with multi-head self-attention (6 layers, 6 heads)
