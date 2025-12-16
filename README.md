@@ -4,7 +4,8 @@ This repository contains the official implementation of the paper:
 
 **"Multimodal Sleep Stage and Sleep Apnea Classification Using Vision Transformer: A Multitask Explainable Learning Approach"**
 
-> Kazemi, Kianoosh, Iman Azimi, Michelle Khine, Rami N. Khayat, Amir M. Rahmani, and Pasi Liljeberg. "Multimodal Sleep Stage and Sleep Apnea Classification Using Vision Transformer: A Multitask Explainable Learning Approach." arXiv preprint arXiv:2502.17486 (2025).
+> Kazemi, Kianoosh, Iman Azimi, Michelle Khine, Rami N. Khayat, Amir M. Rahmani, and Pasi Liljeberg. "Multimodal Sleep Stage and Sleep Apnea Classification Using Vision Transformer: A Multitask Explainable Learning Approach." 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+> DOI: 10.1109/EMBC58623.2025.11252880
 
 ---
 
@@ -110,7 +111,7 @@ If you use this code or our ideas, please cite the following paper:
 ```
 Kazemi, Kianoosh, Iman Azimi, Michelle Khine, Rami N. Khayat, Amir M. Rahmani, and Pasi Liljeberg. 
 "Multimodal Sleep Stage and Sleep Apnea Classification Using Vision Transformer: A Multitask Explainable Learning Approach."
-arXiv preprint arXiv:2502.17486 (2025).
+2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)..
 ```
 
 ---
